@@ -6,6 +6,8 @@
 
 本项目为**天池 Qoder 竞赛参赛作品**，是一个可直接运行、构建与部署的完整前端应用。
 
+**体验链接**：https://career-engine-7nsypzcs9qs.qoder.website
+
 ---
 
 ## 目录
